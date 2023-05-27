@@ -1,4 +1,4 @@
 -Hi, I’m @phil10181
 -I’m interested in website development and cybersecurity. 
 -I’m currently learning React.js 
--I'm looking to build a project that provides helpful information for others. 
+-I'm looking to persue my learning and become the best coder that I can be. 
