@@ -1,5 +1,3 @@
 Hi, I’m @phil10181
-I’m a humble and hard working college student who is interested in website development and cybersecurity. 
-I'm looking to become the best coder possible and continuously learn technologies. 
-Together we can push each other to the next level. 
+I’m a college student looking to improve my coding and continuously learn technologies. 
 Happy coding!!
